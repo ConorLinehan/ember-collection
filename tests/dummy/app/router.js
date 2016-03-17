@@ -10,6 +10,7 @@ Router.map(function() {
   this.route('scroll-position');
   this.route('mixed');
   this.route('percentages');
+  this.route('infinite');
 });
 
 export default Router;
